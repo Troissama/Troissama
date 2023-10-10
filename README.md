@@ -1,7 +1,6 @@
 ## Olá Eu sou Italo Matheus
 
 - 🔭 Estudando Python
-- 💬 Estudando Python
 - 😄 Pronouns: ele/dele
 
 
